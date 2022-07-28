@@ -12,25 +12,8 @@ body{
   }
 
  
-  @media(max-width: 576px) {
-   .extra-media-quary{
-     padding-bottom: 0px;
-   }
-    .extra-media{
-        width: 100%;
-        
+  @media screen  and (max-width:767px) {
+    .grediant-bg img{
+      height: 350px;
     }
-    .extra-media p {
-      font-size: 12px;
-      margin: 0px;
-      padding-bottom: 5px;
-      
-    }
-    .extra-media h1 {
-        font-size: 20px;
-        font-weight: 600;
-        margin-bottom: 0px;
-        
-    }
-
-    }
+  }
