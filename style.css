@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.custom-bg{
+  background-color: #F4FAFD;
+}
 .grediant-bg:after {
     content:"";
     position:absolute;
@@ -14,5 +17,4 @@ body{
     .grediant-bg img{
       min-height: 400px;
     }
-    
   }
