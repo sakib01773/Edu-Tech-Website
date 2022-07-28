@@ -10,10 +10,9 @@ body{
     right:0;
     background-color:rgba(29, 29, 29, 0.7);
   }
-
- 
   @media screen  and (max-width:767px) {
     .grediant-bg img{
-      height: 350px;
+      min-height: 400px;
     }
+    
   }
